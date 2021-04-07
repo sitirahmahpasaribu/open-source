@@ -51,10 +51,8 @@
       </nav><!-- .navbar -->
 
       <div class="social-links">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        <a href="https://www.facebook.com/heiyrbnitsme" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/siti.rahmah1910/" class="instagram"><i class="bi bi-instagram"></i></a>
       </div>
 
     </div>
